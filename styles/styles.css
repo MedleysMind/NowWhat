@@ -1,0 +1,17 @@
+body{
+    overflow-x: hidden;
+}
+h1{
+    text-align: center;
+    /* align-content: center; */
+}
+h3{
+    text-decoration: underline;
+}
+.row{
+    text-align: center;
+    padding: 5%;
+}
+.info{
+    border: 1px solid black;
+}
